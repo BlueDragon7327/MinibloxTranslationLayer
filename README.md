@@ -6,7 +6,7 @@
 
 # How to use:
 
-* Download and extract the file.
+* Download and extract the [file](MinibloxTranslationLayer.zip).
 * Download [Node.JS](http://nodejs.org/)
 * Inside the extracted folder run "npm install"
 * Now run node index.js
